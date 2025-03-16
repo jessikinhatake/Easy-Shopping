@@ -8,3 +8,7 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://github.com/jessikinhatake/Easy-Shopping/blob/main/assets/Tela%20note.png?raw=true"/>
+<br>
+<h2>Modelos de visualização das Tecnologia:</h2>
+<br>
+<img src="https://github.com/jessikinhatake/Easy-Shopping/blob/main/assets/1.jpg"/>
