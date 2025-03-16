@@ -12,3 +12,6 @@
 <h2>Modelos de visualização das Tecnologia:</h2>
 <br>
 <img src="https://github.com/jessikinhatake/Easy-Shopping/blob/main/assets/1.jpg"/>
+<br>
+<br>
+<img src="https://github.com/jessikinhatake/Easy-Shopping/blob/main/2.jpg"/>
